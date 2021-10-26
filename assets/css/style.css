@@ -442,3 +442,9 @@ body .full-width {
     }
 
 }
+
+@media (max-width: 32rem) {
+    h2 {
+      text-transform: none;
+    }
+}
